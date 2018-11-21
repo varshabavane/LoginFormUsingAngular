@@ -13,3 +13,11 @@ width: 70px;
     width: 50px;
     float: left;
 } */
+.carousel-inner img {
+    width: 80vw;
+    height: 60vh;
+    
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
